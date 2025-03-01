@@ -26,7 +26,7 @@ const products = [
 const Home = () => {
   return (
     <div className="home-container">
-      <h1 className="title">Welcome to Our Store</h1>
+      <h1 className="title">Welcome to our site!</h1>
       <h1 className="brand-name">ANIOR</h1>
 
       <p className="subtitle">Explore our latest sneaker collection.</p>
